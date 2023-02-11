@@ -30,4 +30,4 @@ GitPython
 torchsde
 safetensors
 psutil
-fastapi=0.90.1
+fastapi==0.90.1
